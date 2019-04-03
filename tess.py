@@ -1,4 +1,1 @@
-idea
-print {"h")
-
-h
+django
